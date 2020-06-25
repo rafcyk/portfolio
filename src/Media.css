@@ -86,6 +86,10 @@
         margin: 10px;
         transition: .2s;
       }
+
+      aside div.wrapIcons a img{
+        width:25px;
+      }
 }
 
 

@@ -317,7 +317,7 @@ aside p{
  position: relative;
 }
 
-aside div{
+aside div.line{
   position: absolute;
   top:50%;
   left:250%;
@@ -327,6 +327,31 @@ aside div{
   background-color: #222;
   z-index: 9999;
   opacity: 0;
+}
+
+aside div.wrapIcons{
+  position: absolute;
+  top:51%;
+  transform: translateY(-45%);
+  left:-250%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -webkit-transform: translateY(-45%);
+  -moz-transform: translateY(-45%);
+  -ms-transform: translateY(-45%);
+  -o-transform: translateY(-45%);
+  opacity: 0;
+}
+
+aside div.wrapIcons a img{
+  width:30px;
+  height: auto;
+  transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
 }
 
 
