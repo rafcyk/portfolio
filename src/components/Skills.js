@@ -6,6 +6,7 @@ import Html from '../images/html.png';
 import Js from '../images/js.png';
 import ReactImage from '../images/react.png';
 import Git from '../images/git.png';
+import TypeScript from '../images/typescript.png';
 
 const Skills = () => {
 
@@ -26,6 +27,7 @@ const Skills = () => {
                 <img src={Bootstrap} alt="bootstrap" title = 'bootstrap'/>
                 <img src={Adobe} alt="adobeXd" title = 'adobeXd'/>
                 <img src={Git} alt="git" title = 'git'/>
+                <img src={TypeScript} alt="typescript" title = 'typescript'/>
             </div>
         </section>
     );
