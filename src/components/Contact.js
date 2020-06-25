@@ -1,6 +1,7 @@
 import React from 'react';
 
 import ContactImage from '../images/contact.jpg'
+import Pdf from '../CV_Rafał_Dobrowolski.pdf'
 
 const Contact = () => {
 
@@ -18,7 +19,7 @@ const Contact = () => {
                     <p><span className="name">e-mail. </span>rafcy9@gmail.com</p>
                     <p><span className="name">phone </span>517618385</p>
                     <p><span className="name">github </span><a href="https://github.com/rafcyk" target = '_blank'>Rafcyk</a></p>
-                    <p><span className="name">CV </span><a href="./CV_Rafał_Dobrowolski.pdf" target = "_blank">Download</a></p>
+                    <p><span className="name">CV </span><a href={Pdf} target = "_blank">Download</a></p>
                 </div>
             </div>
             

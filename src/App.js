@@ -8,6 +8,7 @@ import Contact from './components/Contact';
 import Sidebar from './components/Sidebar';
 
 import './App.css';
+import './Media.css';
 
 function App() {
   return (
