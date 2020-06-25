@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.501aa387.chunk.css",
-    "main.js": "/portfolio/static/js/main.0398aec3.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.0398aec3.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.ddd6580f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ddd6580f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.935f41a1.chunk.js": "/portfolio/static/js/2.935f41a1.chunk.js",
-    "static/js/2.935f41a1.chunk.js.map": "/portfolio/static/js/2.935f41a1.chunk.js.map",
+    "static/js/2.c8a05419.chunk.js": "/portfolio/static/js/2.c8a05419.chunk.js",
+    "static/js/2.c8a05419.chunk.js.map": "/portfolio/static/js/2.c8a05419.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.61f5771cc6b8a998f418a06163d98c25.js": "/portfolio/precache-manifest.61f5771cc6b8a998f418a06163d98c25.js",
+    "precache-manifest.cd9247e4d1bf9b43f13ce3030721257b.js": "/portfolio/precache-manifest.cd9247e4d1bf9b43f13ce3030721257b.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.501aa387.chunk.css.map": "/portfolio/static/css/main.501aa387.chunk.css.map",
-    "static/js/2.935f41a1.chunk.js.LICENSE.txt": "/portfolio/static/js/2.935f41a1.chunk.js.LICENSE.txt",
+    "static/js/2.c8a05419.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c8a05419.chunk.js.LICENSE.txt",
     "static/media/CV_Rafał_Dobrowolski.pdf": "/portfolio/static/media/CV_Rafał_Dobrowolski.8ce3b136.pdf",
     "static/media/App.css": "/portfolio/static/media/removals.b3ed558c.png",
     "static/media/about.png": "/portfolio/static/media/about.c77ac5e4.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.935f41a1.chunk.js",
+    "static/js/2.c8a05419.chunk.js",
     "static/css/main.501aa387.chunk.css",
-    "static/js/main.0398aec3.chunk.js"
+    "static/js/main.ddd6580f.chunk.js"
   ]
 }
