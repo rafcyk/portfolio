@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ff1b9fcd.chunk.css",
+    "main.js": "/portfolio/static/js/main.ec4366b0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ec4366b0.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.b806b714.chunk.js": "/portfolio/static/js/2.b806b714.chunk.js",
+    "static/js/2.b806b714.chunk.js.map": "/portfolio/static/js/2.b806b714.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.882f9d00b41eaae859067f53347ad811.js": "/portfolio/precache-manifest.882f9d00b41eaae859067f53347ad811.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.ff1b9fcd.chunk.css.map": "/portfolio/static/css/main.ff1b9fcd.chunk.css.map",
+    "static/js/2.b806b714.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b806b714.chunk.js.LICENSE.txt",
+    "static/media/CV_Rafał_Dobrowolski.pdf": "/portfolio/static/media/CV_Rafał_Dobrowolski.8ce3b136.pdf",
+    "static/media/App.css": "/portfolio/static/media/removals.b3ed558c.png",
+    "static/media/about.png": "/portfolio/static/media/about.c77ac5e4.png",
+    "static/media/contact.jpg": "/portfolio/static/media/contact.7c76ad8e.jpg",
+    "static/media/react.png": "/portfolio/static/media/react.eb933c05.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.b806b714.chunk.js",
+    "static/css/main.ff1b9fcd.chunk.css",
+    "static/js/main.ec4366b0.chunk.js"
+  ]
+}
