@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ceb8c1856490beb5e6b312a63728854",
+    "revision": "e014c51a108380bf085f8ac5af36dc85",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "2c7ed0ffa92205c34e22",
-    "url": "/portfolio/static/css/main.501aa387.chunk.css"
+    "revision": "09b85c77509dddbf1c08",
+    "url": "/portfolio/static/css/main.ebaed527.chunk.css"
   },
   {
     "revision": "4367328ad0f83507b604",
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.c8a05419.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c7ed0ffa92205c34e22",
-    "url": "/portfolio/static/js/main.ddd6580f.chunk.js"
+    "revision": "09b85c77509dddbf1c08",
+    "url": "/portfolio/static/js/main.d3d3df62.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
   },
   {
-    "revision": "8ce3b1364d44db7bf1dc7799c5497f5b",
-    "url": "/portfolio/static/media/CV_Rafał_Dobrowolski.8ce3b136.pdf"
+    "revision": "8c21df3c17948e866ce5f32b8cb4f2df",
+    "url": "/portfolio/static/media/CVRafałDobrowolski.8c21df3c.pdf"
   },
   {
     "revision": "b39b2629786012cc249db2f11428e149",
