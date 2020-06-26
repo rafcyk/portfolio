@@ -1,7 +1,7 @@
 import React from 'react';
 
 import ContactImage from '../images/contact.jpg'
-import Pdf from '../CV_Rafał_Dobrowolski.pdf'
+import Pdf from '../CVRafał_Dobrowolski.pdf'
 
 const Contact = () => {
 
