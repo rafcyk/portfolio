@@ -18,8 +18,8 @@ const Sidebar = () => {
             side.textContent = 'contact';
         } else if (window.pageYOffset < document.querySelector('section.about').offsetTop - 200){
             side.textContent = 'home';
-            document.querySelector('aside div.line').style.opacity = 1;
-            document.querySelector('aside div.wrapIcons').style.opacity = 1;
+            document.querySelector('aside div.line').style.opacity = 0.8;
+            document.querySelector('aside div.wrapIcons').style.opacity = 0.8;
         }
     })
 

@@ -307,7 +307,6 @@ aside{
   bottom:15%;
   z-index: 5;
   width: 30px;
-  /* height:10px; */
   transform: rotate(-90deg);
 }
 
@@ -315,6 +314,7 @@ aside p{
  font-size: 1.5rem;
  text-transform: uppercase;
  position: relative;
+ opacity: .8;
 }
 
 aside div.line{
@@ -323,7 +323,7 @@ aside div.line{
   left:250%;
   transform: translateY(-50%);
   width: 100px;
-  height: 2px;
+  height: 1px;
   background-color: #222;
   z-index: 9999;
   opacity: 0;

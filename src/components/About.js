@@ -13,8 +13,8 @@ const About = () => {
         <section className = 'about'>
             <div className="desc">
                 <h2>About</h2>
-                <p>Hello, I'm 23 years old last year IT student.
-                I am studying programming at the university but additionally I get to know web technology which is my passion and in this direction I want to constantly develop.</p>
+                <p>Hello, I'm 23 years old. I'm third year study of IT.
+                I am studying programming at the university. Additionally I get to know web technology which is my passion and in this direction I want to constantly develop myself.</p>
             </div>
             <div className="icon-image">
                 <img src={Icon} alt="icon"/>
