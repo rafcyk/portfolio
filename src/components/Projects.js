@@ -50,6 +50,13 @@ const Projects = () => {
                             <a href="https://rafcyk.github.io/quiz/" target = '_blank'><img src={Demo} alt="demo"/></a>
                             <a href="https://github.com/rafcyk/quiz" target = '_blank'><img src={Code} alt="code"/></a>
                     </div>
+                    </div>
+                    <div className = 'project'>
+                    <div className = 'desc'>
+                        <p>Weather App create with Open Weather Api</p>
+                            <a href="https://rafcyk.github.io/weather-app/" target = '_blank'><img src={Demo} alt="demo"/></a>
+                            <a href="https://github.com/rafcyk/weather-app" target = '_blank'><img src={Code} alt="code"/></a>
+                    </div>
                 </div>
             </div>
         </section>

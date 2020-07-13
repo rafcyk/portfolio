@@ -197,6 +197,9 @@ section.projects div.wrapProjects div.project:nth-child(4){
 section.projects div.wrapProjects div.project:nth-child(5){
   background-image: url('./images/quiz.png');
 }
+section.projects div.wrapProjects div.project:nth-child(6){
+  background-image: url('./images/weather.png');
+}
 
 section.projects div.wrapProjects div.project div.desc{
   position: absolute;
